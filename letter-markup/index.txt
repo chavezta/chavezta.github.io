@@ -10,7 +10,7 @@
     html {
         font-size: 16px;
     }
-    strongody {
+    body {
          max-width: 800px;
          margin: 0 auto;
     }
@@ -36,7 +36,7 @@
 
     </style>
     </head>
-    </strongody>
+    <body>
 <p>
 <strong>Dr. Eleanor </strong>
 Awesome Science faculty
@@ -129,5 +129,5 @@ For more of my research, see my <a>exotic dance research page.</a></p>
 
 <p>
 University of Awesome motto: "stronge awesome to each other." -- <em> The memoirs of strongill S Preston, Esq</em>
-    </strongody>
+    </body>
 </html>
