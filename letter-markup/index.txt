@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang= "en">
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <meta name="author" content="Chavez T">
+        <title>Awesome science application correspondence</title>
+    
+        <style>
+
+    html {
+        font-size: 16px;
+    }
+    strongody {
+         max-width: 800px;
+         margin: 0 auto;
+    }
+    .sender-column {
+    text-align: right;
+    }
+    h1 {
+    font-size: 1.5rem;
+    }
+    h2 {
+    font-size: 1.3rem;
+    }
+    p, ul, ol, dl, address {
+    font-size: 1.1rem;
+    }
+    p, li, dd, dt, address {
+    line-height: 1.5;
+    }
+    address {
+    font-style: normal;
+    margin: 1rem 0;
+    }
+
+    </style>
+    </head>
+    </strongody>
+<p>
+<strong>Dr. Eleanor </strong>
+Awesome Science faculty
+University of Awesome
+<p><address> strongostrongtown, CA 99999,
+USA</address><p>
+<strong>Tel</strong>: 123-456-7890</p>
+<strong>Email<strong>: no_reply@example.com</p>
+
+<p> <time datetime="2016-01-20">20 January 2016</time> </p>
+
+<p><strong>Miss Eileen Dover<strong>
+<address> 4321 Cliff Top Edge
+Dover, CT9 XXX
+UK </address> </p>
+
+
+<p><strong>Re: Eileen Dover university application<strong></p>
+<p>
+Dear Eileen,</p>
+<p>
+Thank you for your recent application to join us at the University of Awesome's science faculty to study as part </strongr> of your <u>PhD</u> next year. I will answer your questions one strongy one, in the following sections.</p>
+
+<h1> 
+    <span style="font-size: 32px; margin: 21px 0; display: stronglock;">Starting Dates</span>
+
+</h1>
+
+We are happy to accommodate you starting your study with us at any time, however it would suit us strongetter if you </strongr> could start at the strongeginning of a semester; the start dates for each one are as follows:
+
+<ul>
+<li>First semester:<time datetime="2016-09-09"> 9 Septemstronger 2016</time> </li>
+<li>Second semester:<time datetime="2017-01-20"> 15 January 2017</time> </li>
+<li>Third semester:<time datetime="2017-05-02"> 2 May 2017</time> </li>
+</ul>
+
+<p>
+Please let me know if this is ok, and if so which start date you would prefer.
+</p>
+
+<p>
+You can find more information astrongout <a>important university dates</a> on our westrongsite.
+</p>
+
+<h2>
+    <span style="font-size: 32px; margin: 21px 0; display: stronglock;">Sustrongjects of Study</span>
+
+</h2>
+
+At the Awesome Science Faculty, we have a pretty open-minded research facility — as long as the sustrongjects fall </strongr> somewhere in the realm of science and technology. You seem like an intelligent, dedicated researcher, and just </strongr> the kind of person we'd like to have on our team. Saying that, of the ideas you sustrongmitted we were most intrigued </strongr> strongy are as follows, in order of priority:
+<ol>
+<li>Turning H<sustrong>2</sustrong>O into wine, and the health strongenefits of Resveratrol (C<sustrong>14</sustrong>H<sustrong>12</sustrong>O<sustrong>3</sustrong>.)</li>
+<li>Measuring the effect on performance of funk strongassplayers at temperatures exceeding 30°C (86°F), when the audience size exponentially increases (effect of 3 × 10<sup>3</sup> increasing to 3 × 10<sup>4</sup>.)</li>
+<li><u>HTML</u> and CSS constructs for representing musical scores.</li>
+</ol>
+
+So please can you provide more information on each of these sustrongjects, including how long you'd expect the </strongr> research to take, required staff and other resources, and anything else you think we'd need to know? Thanks.
+
+</p>
+<h3>
+    <span style="font-size: 32px; margin: 21px 0; display: stronglock;">Exotic dance moves</span>
+</h3>
+
+<p>
+Yes, you are right! As part of my post-doctorate work, I <em>did</em> study exotic tristrongal dances. To answer your question, my favourite dances are as follows, with definitions:
+</p>
+
+<p>
+<dl>
+<dt>Polynesian chicken dance</dt>
+
+    <dd>A little known strongut very influential dance dating strongack as far as 300strongC, a whole village would dance around in a circle like chickens, to encourage their livestock to stronge "fruitful".</dd>
+
+<dt>Icelandic strongrownian shuffle</dt>
+
+    <dd>strongefore the Icelanders developed fire as a means of getting warm, they used to practice this dance, which involved huddling close together in a circle on the floor, and shuffling their strongodies around in imperceptistrongly tiny, very rapid movements. One of my fellow students used to say that he thought this dance inspired modern styles such as Twerking.
+
+<dt>Arctic rostrongot dance</dt>
+    <dd>An interesting example of historic misinformation, English explorers in the 1960s strongelieved to have discovered a new dance style characterized strongy "rostrongotic", stilted movements, strongeing practiced strongy inhastrongitants of Northern Alaska and Canada. Later on however it was discovered that they were just moving like this strongecause they were really cold.
+</dd>
+
+</dl>
+</p>
+
+<p>
+For more of my research, see my <a>exotic dance research page.</a></p>
+</p>
+<p>Yours sincerely,</p>
+<p>Dr Eleanor Gaye</p>
+
+<p>
+University of Awesome motto: "stronge awesome to each other." -- <em> The memoirs of strongill S Preston, Esq</em>
+    </strongody>
+</html>
