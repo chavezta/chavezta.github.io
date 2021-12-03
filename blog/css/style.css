@@ -1,0 +1,234 @@
+/* TO GET AN IDEA OF THE CSS YOU WILL LIKELY BE USING, SEE THE LISTS BELOW. */
+
+        /* 
+        
+        Spacing 
+
+            - padding (shorthand and/or specific properties like padding-bottom, etc.)
+
+            - margin, (shorthand and/or specific properties like margin-top, etc.)
+
+            - letter-spacing, word-spacing, line-height
+
+            - width, max-width, min-width
+            - height, max-height, min-height
+
+        Typography 
+
+            - font-family, font-size, font-style, font-weight
+
+            - text-decoration, text-align
+
+            - color
+
+            - text-shadow, text-transform
+
+        Box, Layout and Border 
+
+            - border (shorthand and/or specific properties like border-top, border-bottom-radius, border-width, etc.)
+
+            - box-shadow
+
+            - display, float, align-items, align-content
+
+            - grid-template-columns, grid-column-gap
+
+            - transform
+
+        Other
+
+            - :nth()-child (to target specific child elements)
+
+            - :focus, :hover, :active (to target link states)
+
+            - @font-face or @import (to import typefaces)
+
+        */
+
+
+/* ------ START WRITING YOUR CODE BELOW ------ */
+* {
+    box-sizing: border-box;
+}
+
+html {
+    font-size:16px;
+}
+
+body {
+    margin: 1.5rem auto;
+    width:90%;
+    min-width:56.25rem;
+}
+
+
+
+html {
+    font-family: monstserrat-regular, sans-serif;
+    src: url(../fonts/montserrat-regular.ttf);
+}
+
+  
+/* Typography Styles */
+
+.container {
+    display: grid;
+}
+
+
+h1 {
+      font-size: 7rem;
+      padding: 1rem;
+      margin-top: .25rem;
+      margin-bottom: .25rem;
+      letter-spacing:.25rem;
+      border-bottom: darkblue;
+      text-align: center;
+    }
+
+h1 span {
+    color:crimson;
+    text-shadow:.09375rem .09375rem .09375rem #000;
+}
+
+
+h2 {
+    font-size: 2rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    text-align: left;
+}
+
+h2 + p {
+    text-indent: 1.5rem;
+}
+
+h3 {
+    font-size: 2rem;
+    padding: 1rem;
+    margin-top: .25rem;
+    margin-bottom: .25rem;
+    border-bottom: darkblue;
+    text-align: left;
+} 
+
+h3 + p {
+    text-indent: 1.5rem;
+}
+
+p {
+    text-indent: 1.5rem;
+    padding-left: 1rem;
+    letter-spacing: 0.031rem;
+    word-spacing: 0.125rem;
+}
+
+section {
+        font-family: sans-serif;
+        font-size: 1.75rem;
+        margin-right: 2rem;
+        margin-bottom: 1rem;
+        width:50%;
+        display:flex;
+        text-indent: 1.25rem;
+    }
+
+
+
+div {
+        display: flex;
+        align-items: center;
+        justify-content: space-around;
+      }
+      
+    
+figure {
+        width:100%;
+        margin:0 10% 0 0;
+    }
+
+    
+figcaption {
+        margin:.375rem;
+        padding-top:.75rem;
+        padding-bottom:.75rem;
+        padding-left:.75rem;
+        padding-right:.75rem;
+        background-color: aquamarine;
+    
+    }
+    
+
+
+button {
+        flex: 1 auto;
+        margin: 4rem;
+        font-size: 3rem;
+        line-height: 4rem;
+        background-color: cadetblue;
+      }
+      
+    
+nav {
+        padding-left: 0.25rem;
+    margin-top: 0.25rem;
+    outline: none;
+    letter-spacing: .5rem;
+    word-spacing: 2rem;
+
+    }
+    
+footer {
+        clear: both;
+        margin-top:1.5rem;
+    }
+    
+section, footer {
+      padding: .5rem;
+    }
+.my-class {
+    margin: 1rem;
+}
+nav{  padding-left: 0.25rem;
+    margin-top: 0.25rem;
+    outline: none;
+    border-top: #33658A;
+    border-bottom: #33658A;
+    border-width: 0.125em;
+
+}
+
+nav a { 
+    display: ;
+    width: 100%;
+    line-height: 4rem;
+    text-align: center;
+    font-size: 2rem;
+    margin-bottom: 1.5rem;
+    text-decoration-line: none;
+    border-top: aquamarine;
+    border-width: 1rem;
+}
+nav a:focus, nav a:hover {
+    outline: none;
+    text-decoration-line: none;
+
+}
+
+nav a:active {
+    color:#fff;
+    background-color: none;
+}
+aside {
+    text-indent: 1.5rem;
+    padding-left: 2rem;
+}
+p + address {
+    text-align: left;
+}
+
+footer {
+    text-align: right;
+    border-top-color: #33658A;
+    margin-top: 1rem;
+}
